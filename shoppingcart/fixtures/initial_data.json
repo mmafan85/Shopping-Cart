@@ -1,0 +1,68 @@
+[
+  {
+    "model": "shoppingcart.Product",
+    "pk": 1,
+    "fields": {
+        "upc14": 35200264013,
+        "upc12": 35200264013,
+        "brand": "Riceland",
+        "name": "Riceland American Jazmine Rice",
+        "price": "13.00"
+    }
+  },
+  {
+    "model": "shoppingcart.Product",
+    "pk": 2,
+    "fields": {
+        "upc14": 11111065925,
+        "upc12": 11111065925,
+        "brand": "Caress",
+        "name": "Caress Velvet Bliss Ultra Silkening Beauty Bar - 6 Ct",
+        "price": "3.00"
+    }
+  },
+  {
+    "model": "shoppingcart.Product",
+    "pk": 3,
+        "fields": {
+        "upc14": 23923330139,
+        "upc12": 23923330139,
+        "brand": "Earth's Best",
+        "name": "Earth's Best Organic Fruit Yogurt Smoothie Mixed Berry",
+        "price": "20.00"
+    }
+  },
+  {
+    "model": "shoppingcart.Product",
+    "pk": 4,
+        "fields": {
+        "upc14": 209000000000,
+        "upc12": 209000000000,
+        "brand": "Boar's Head",
+        "name": "Boar's Head Sliced White American Cheese - 120 Ct",
+        "price": "17.00"
+    }
+  },
+  {
+    "model": "shoppingcart.Product",
+    "pk": 5,
+        "fields": {
+        "upc14": 759000000000,
+        "upc12": 759000000000,
+        "brand": "Back To Nature",
+        "name": "Back To Nature Gluten Free White Cheddar Rice Thin Crackers",
+        "price": "10.00"
+    }
+  },
+  {
+    "model": "shoppingcart.Product",
+    "pk": 6,
+    "fields": {
+        "upc14": 74170388732,
+        "upc12": 74170388732,
+        "brand": "Sally Hansen",
+        "name": "Sally Hansen Nail Color Magnetic 903 Silver Elements",
+        "price": "11.00"
+    }
+  }
+]

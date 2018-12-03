@@ -1,0 +1,151 @@
+pk,model,upc14,upc12,brand,name,Price
+1,shoppingcart.Product,35200264013,35200264013,Riceland,Riceland American Jazmine Rice,$13.00 
+2,shoppingcart.Product,11111065925,11111065925,Caress,Caress Velvet Bliss Ultra Silkening Beauty Bar - 6 Ct,$3.00 
+3,shoppingcart.Product,23923330139,23923330139,Earth's Best,Earth's Best Organic Fruit Yogurt Smoothie Mixed Berry,$20.00 
+4,shoppingcart.Product,2.09E+11,2.09E+11,Boar's Head,Boar's Head Sliced White American Cheese - 120 Ct,$17.00 
+5,shoppingcart.Product,7.59E+11,7.59E+11,Back To Nature,Back To Nature Gluten Free White Cheddar Rice Thin Crackers,$10.00 
+6,shoppingcart.Product,74170388732,74170388732,Sally Hansen,Sally Hansen Nail Color Magnetic 903 Silver Elements,$11.00 
+7,shoppingcart.Product,70177154004,70177154004,Twinings Of London,Twinings Of London Classics Lady Grey Tea - 20 Ct,$8.00 
+8,shoppingcart.Product,51600080015,51600080015,Lea & Perrins,Lea & Perrins Marinade In-a-bag Cracked Peppercorn,$1.00 
+9,shoppingcart.Product,19600923015,19600923015,Van De Kamp's,Van De Kamp's Fillets Beer Battered - 10 Ct,$26.00 
+10,shoppingcart.Product,6.88E+11,6.88E+11,Ahold,Ahold Cocoa Almonds,$20.00 
+11,shoppingcart.Product,6.58E+11,6.58E+11,Honest Tea,Honest Tea Peach White Tea,$27.00 
+12,shoppingcart.Product,74676640211,74676640211,Mueller,Mueller Sport Care Basic Support Level Medium Elastic Knee Support,$28.00 
+13,shoppingcart.Product,6.03E+11,6.03E+11,Garnier Nutritioniste,Garnier Nutritioniste Moisture Rescue Fresh Cleansing Foam,$30.00 
+14,shoppingcart.Product,41167300121,41167300121,Pamprin,Pamprin Maximum Strength Multi-symptom Menstrual Pain Relief,$13.00 
+15,shoppingcart.Product,79400847201,79400847201,Suave,Suave Naturals Moisturizing Body Wash Creamy Tropical Coconut,$15.00 
+16,shoppingcart.Product,7.93E+11,7.93E+11,Burt's Bees,Burt's Bees Daily Moisturizing Cream Sensitive,$17.00 
+17,shoppingcart.Product,88313590791,88313590791,Ducal,Ducal Refried Red Beans,$5.00 
+18,shoppingcart.Product,21200725340,21200725340,Scotch,Scotch Removable Clear Mounting Squares - 35 Ct,$28.00 
+19,shoppingcart.Product,41520035646,41520035646,Careone,Careone Family Comb Set - 8 Ct,$25.00 
+20,shoppingcart.Product,2.04E+11,2.04E+11,Usda Produce,Plums Black,$10.00 
+21,shoppingcart.Product,7.54E+11,7.54E+11,Doctor's Best,Doctor's Best Best Curcumin C3 Complex 1000mg Tablets - 120 Ct,$26.00 
+22,shoppingcart.Product,16000288829,16000288829,Betty Crocker,Betty Crocker Twin Pack Real Potatoes Scalloped 2 Pouches For 2 Meals - 2 Pk,$25.00 
+23,shoppingcart.Product,70670009658,70670009658,Reese,Reese Mandarin Oranges Segments In Light Syrup,$4.00 
+24,shoppingcart.Product,6.88E+11,6.88E+11,Smart Living,Smart Living Charcoal Lighter Fluid,$24.00 
+25,shoppingcart.Product,44100117428,44100117428,Hood,Hood Latte Iced Coffee Drink Vanilla Latte,$18.00 
+26,shoppingcart.Product,3.00E+11,3.00E+11,Triaminic,Triaminic Syrup Night Time Cold & Cough Grape 4oz,$17.00 
+27,shoppingcart.Product,24600017008,24600017008,Morton,Morton Kosher Salt Coarse,$5.00 
+28,shoppingcart.Product,7.19E+11,7.19E+11,Usda Produce,Guava,$23.00 
+29,shoppingcart.Product,13000001038,13000001038,Heinz,Heinz Tomato Ketchup - 2 Ct,$21.00 
+30,shoppingcart.Product,7.24E+11,7.24E+11,Petmate,"Petmate Booda Bones Steak, Bacon & Chicken Flavors - 9 Ct",$29.00 
+31,shoppingcart.Product,6.53E+11,6.53E+11,Zhena's Gypsy Tea,Zhena's Gypsy Tea Herbal Red Tea Sachets Fire Light Chai - 22 Ct,$30.00 
+32,shoppingcart.Product,8500004528,8500004528,Barefoot,Barefoot Pinot Grigio  187,$14.00 
+33,shoppingcart.Product,71463060078,71463060078,The First Years,Tomy The First Years Gumdrop Orthodontic Pacifiers 6m+ - 2ct,$25.00 
+34,shoppingcart.Product,3.13E+11,3.13E+11,Halls,Halls Menthol Cough Suppresant/oral Anesthetic Drops Honey-lemon - 30 Ct,$28.00 
+35,shoppingcart.Product,33674100066,33674100066,Nature's Way,Nature's Way Forskohlii - 60 Ct,$30.00 
+36,shoppingcart.Product,6.10E+11,6.10E+11,Deerfields Gluten Free,Rice Bran Gluten Free Dinner Rolls Plain,$25.00 
+37,shoppingcart.Product,73575295003,73575295003,Nakano,Nakano Seasoned Rice Vinegar Original,$24.00 
+38,shoppingcart.Product,30768540548,30768540548,Sundown Naturals,"Sundown Naturals Essential Electrolytes Tropical Punch, Watermelon And Fruit Punch Gummies - 60 Ct",$21.00 
+39,shoppingcart.Product,28400029254,28400029254,Munchies,Munchies Sandwich Crackers Cheddar Cheese On Golden Toast Crackers - 8 Pk,$6.00 
+40,shoppingcart.Product,42272008063,42272008063,Amy's,Amy's Light & Lean Spaghetti Italiano,$14.00 
+41,shoppingcart.Product,31000670016,31000670016,P.f. Chang's,P.f. Chang's Home Menu Meal For Two Beef With Broccoli,$28.00 
+42,shoppingcart.Product,8.84E+11,8.84E+11,Mom's Best Naturals,Mom's Best Naturals Cereal Toasted Cinnamon Squares,$27.00 
+43,shoppingcart.Product,71403000379,71403000379,Ferrara,Ferrara Vanilla Syrup,$3.00 
+44,shoppingcart.Product,26000001403,26000001403,Elmer's,Elmer's Board Mate Dual Tip Glue Pen,$27.00 
+45,shoppingcart.Product,38000542237,38000542237,Kellogg's,Kellogg's Disney Pixar Cars 2 Cereal,$13.00 
+46,shoppingcart.Product,35457770664,35457770664,Mama Marys,Pizza Sauce,$22.00 
+47,shoppingcart.Product,8.85E+11,8.85E+11,Bear Naked,Bear Naked Fit Almond Crisp 100% Natural Energy Cereal,$30.00 
+48,shoppingcart.Product,79400271631,79400271631,Dove,Dove Men + Care Antiperspirant Deodorant Cool Silver,$18.00 
+49,shoppingcart.Product,62338879772,62338879772,Easy-off,Easy-off Oven Cleaner Lemon Scent,$3.00 
+50,shoppingcart.Product,47445919221,47445919221,Choice,Choice Organic Teas Black Tea Classic Black - 16 Ct,$22.00 
+51,shoppingcart.Product,41520314307,41520314307,Careone,Careone Lubricating Jelly,$9.00 
+52,shoppingcart.Product,15229375198,15229375198,Sacla,Sacla Italia Sun Dried Pesto Sauce,$25.00 
+53,shoppingcart.Product,36000141870,36000141870,Huggies,Huggies Natural Care Wipes - 3 Pk,$30.00 
+54,shoppingcart.Product,7.89E+11,7.89E+11,Serpis,Serpis Green Olives Stuffed With Spicy Chorizo,$21.00 
+55,shoppingcart.Product,8.18E+11,8.18E+11,Ripken,Ripken Power Shred Beef Jerky Teriyaki,$11.00 
+56,shoppingcart.Product,73410032022,73410032022,Arnold,Arnold Bread Jewish Rye Everything,$25.00 
+57,shoppingcart.Product,32917001863,32917001863,Traditional Medicinals,Traditional Medicinals Herbal Tea Bags Just For Kids Organic Nighty Night - 18 Ct,$4.00 
+58,shoppingcart.Product,75767200246,75767200246,Perry's Ice Cream,Perry's Ice Cream Panda Paws,$8.00 
+59,shoppingcart.Product,8500001210,8500001210,Black Swan,Black Swan Shiraz Merlot 1.5, $-   
+60,shoppingcart.Product,9.00E+11,9.00E+11,Maty's,Maty's All Natural Kids 1+ Caramel Banana Taste Cough Syrup,$13.00 
+61,shoppingcart.Product,21000028207,21000028207,Kraft,Kraft Anything Dressing Honey Mustard,$23.00 
+62,shoppingcart.Product,11141100054,11141100054,Eight O'clock Coffee,Eight O'clock Coffee Dark Italian Roast Ground,$22.00 
+63,shoppingcart.Product,6.88E+11,6.88E+11,Ahold,Ahold  Honey Mustard,$14.00 
+64,shoppingcart.Product,7.64E+11,7.64E+11,Enzymatic Therapy,Enzymatic Therapy  Acidophilus Pearls Active Cultures Dietary Supplement - 30 Ct,$4.00 
+65,shoppingcart.Product,6.88E+11,6.88E+11,Ahold,Ahold Complete Buttermilk Pancake & Waffle Mix,$29.00 
+66,shoppingcart.Product,41235000700,41235000700,Mrs Renfro,Salsa Habanero,$23.00 
+67,shoppingcart.Product,8.05E+11,8.05E+11,Say-it,Say-it Sandwich & Snack Bags- 60 Pk,$24.00 
+68,shoppingcart.Product,44500976496,44500976496,Hillshire Farm,Hillshire Farm Deli Select Smoked Ham With Water Added Ultra Thin,$21.00 
+69,shoppingcart.Product,50000127344,50000127344,Coffee-mate,Nestle Coffee-mate Fat Free Hazelnut Flavor Coffee Creamer,$3.00 
+70,shoppingcart.Product,41520313539,41520313539,Careone,Careone Cotton Swabs,$17.00 
+71,shoppingcart.Product,3.80E+11,3.80E+11,1-day,1-day Vaginal Antifungal Prefilled Applicator 1-dose Treatment,$15.00 
+72,shoppingcart.Product,3.06E+11,3.06E+11,Preparation H,Preparation H Hemorrhoidal Ointment,$21.00 
+73,shoppingcart.Product,7.37E+11,7.37E+11,Roth Kase,"Roth Kase Mini Cheeseboard Kit Havarti, Gruyere & Pepper Jack - 3 Ct",$21.00 
+74,shoppingcart.Product,7.32E+11,7.32E+11,Firm Grip,Firm Grip Disposable Nitrile Gloves - 10 Gloves,$21.00 
+75,shoppingcart.Product,37000835080,37000835080,Downy,Downy Ultra Infusions Orchid Allure Fabric Softener - 48 Loads,$12.00 
+76,shoppingcart.Product,8.88E+11,8.88E+11,Hostess,Hostess Mini Muffins Chocolate Chip - 20 Ct,$25.00 
+77,shoppingcart.Product,15000005771,15000005771,Gerber,Gerber Graduates For Toddlers Lil' Meals Pasta Shells & Cheese,$15.00 
+78,shoppingcart.Product,97421490015,97421490015,Powerbar,Powerbar Protein Plus High Protein Bar Vanilla Yogurt,$30.00 
+79,shoppingcart.Product,8.79E+11,8.79E+11,Every Man Jack,Every Man Jack Shave Cream,$8.00 
+80,shoppingcart.Product,6.88E+11,6.88E+11,Ahold,Ahold Premium Paper Towels Giant Rolls - 8 Ct,$16.00 
+81,shoppingcart.Product,6.38E+11,6.38E+11,Piacci,Piacci Parmesan Nuggets,$12.00 
+82,shoppingcart.Product,22796910028,22796910028,Organix,Organix Smoothing Shea Butter Conditioner,$17.00 
+83,shoppingcart.Product,11017405269,11017405269,Dr Scholl's,Dr. Scholl's For Her Rub Relief Strips,$28.00 
+84,shoppingcart.Product,22451017505,22451017505,Guida's,Guida's Whole Milk, $-   
+85,shoppingcart.Product,11152817606,11152817606,Hime,Hime Wasabi Powdered Sushi,$10.00 
+86,shoppingcart.Product,2.16E+11,2.16E+11,Usda Meat,Boneless Pork Shoulder Roast,$3.00 
+87,shoppingcart.Product,20822530000,20822530000,Usda Meat,Boneless Pork Shoulder Roast,$30.00 
+88,shoppingcart.Product,6.88E+11,6.88E+11,Simply Enjoy,Ahold Simply Enjoy Gourmet Spread Smoky Fig & Roasted Garlic,$6.00 
+89,shoppingcart.Product,86279036858,86279036858,Cuisinart,Cuisinart Citrus Juicer Pulp Control, $-   
+90,shoppingcart.Product,21000611614,21000611614,Velveeta,Velveeta Cheese,$13.00 
+91,shoppingcart.Product,3.11E+11,3.11E+11,Lotrimin,Lotrimin Ultra Antifungal Athlete's Foot Cream,$18.00 
+92,shoppingcart.Product,47325077355,47325077355,Pasta Lensi,Pasta Lensi Gigli #253,$24.00 
+93,shoppingcart.Product,1.82E+11,1.82E+11,Cherrybrook Kitchen,Cherrybrook Kitchen D.w. Sugar Cookie Mix,$25.00 
+94,shoppingcart.Product,90800000751,90800000751,Herb Pharm,Herb Pharm Black Elderberry Herbal Glycerite Extract,$26.00 
+95,shoppingcart.Product,41167023044,41167023044,Gold Bond,Gold Bond Medicated Cornstarch Plus Baby Powder,$4.00 
+96,shoppingcart.Product,16000164901,16000164901,Chex Mix,General Mills Sweet 'n Salty Honey Nut Chex Mix,$16.00 
+97,shoppingcart.Product,6.99E+11,6.99E+11,Udi's,Udi's Soft N' Chewy Granola Bars Chocolate Chip - 5 Ct,$22.00 
+98,shoppingcart.Product,1.62E+11,1.62E+11,Usda Meat,Smoked Pork Hocks - 4 Ct,$18.00 
+99,shoppingcart.Product,8.57E+11,8.57E+11,Kelapo,Kelapo Extra Virgin Coconut Oil Baking Sticks,$16.00 
+100,shoppingcart.Product,41443902643,41443902643,Margaret Holmes,Margaret Holmes Peanut Patch Green Boiled Peanuts Hot & Spicy,$3.00 
+101,shoppingcart.Product,21000023233,21000023233,Kraft,Kraft Velveeta Shells & Cheese 2% Milk,$17.00 
+102,shoppingcart.Product,46135116742,46135116742,Sylvania,Sylvania Daylight 75 Watt Indoor Light Bulb,$6.00 
+103,shoppingcart.Product,47834063047,47834063047,Sushi Chef,Sushi Chef Wakame Soup Mix Traditional Japanese Style,$6.00 
+104,shoppingcart.Product,51000143709,51000143709,Campbell's,Campbell's Homestyle Soup Italian-style Wedding,$9.00 
+105,shoppingcart.Product,25537999054,25537999054,Sapore Sensuale,Sapore Sensuale Cake Toasted Almond,$21.00 
+106,shoppingcart.Product,41457272565,41457272565,Goody,Goody Ouchless No Metal Elastics - 29 Ct,$25.00 
+107,shoppingcart.Product,6.88E+11,6.88E+11,Ahold,Ahold Cooked Shrimp Large Tail-on,$17.00 
+108,shoppingcart.Product,41520893307,41520893307,Smart Living,"Smart Living 10.5"" X 8"" 3 Subject Notebook College Ruled",$22.00 
+109,shoppingcart.Product,78300098362,78300098362,Playtex,Playtex Plastic Tampons Gentle Glide 360 Multi-pack Regular/super Fresh Scent - 18 Ct,$10.00 
+110,shoppingcart.Product,34000003662,34000003662,Hershey's,Hershey's Caramel Syrup,$2.00 
+111,shoppingcart.Product,19800702328,19800702328,Windex,Windex Original Glass & Surface Wipes - 28 Pk,$16.00 
+112,shoppingcart.Product,75609190360,75609190360,Olay Total Effects,Olay Total Effects 7-in-1 Tone Correcting Eye Treatment 0.5 Fl Oz,$10.00 
+113,shoppingcart.Product,8.17E+11,8.17E+11,Alberto Vo5,Alberto Vo5 Normal Balancing Shampoo,$8.00 
+114,shoppingcart.Product,7.17E+11,7.17E+11,Milani,Milani Total Lash Cover Mascara 105 Black,$6.00 
+115,shoppingcart.Product,6.09E+11,6.09E+11,Sylvia's Restaurant,Sylvia's Restaurant Specially-seasoned Field Peas With Snaps,$3.00 
+116,shoppingcart.Product,44000030384,44000030384,Wheat Thins,Nabisco Wheat Thins Snacks,$10.00 
+117,shoppingcart.Product,41520019677,41520019677,Careone,Careone Whitening Toothbrush Soft,$5.00 
+118,shoppingcart.Product,3.05E+11,3.05E+11,Vaseline,Vaseline Spray & Go Moisturizer Total Moisture,$8.00 
+119,shoppingcart.Product,31604027551,31604027551,Nature Made,Nature Made Fish Oil 1200mg Omega-3 360mg Liquid Softgels Lemon Flavor - 60 Ct,$2.00 
+120,shoppingcart.Product,8.54E+11,8.54E+11,Bellucci,Belluci Extra Virgin Olive Oil 100% Italian,$14.00 
+121,shoppingcart.Product,28400033329,28400033329,Ruffles,Ruffles Sour Cream & Onion Potato Chips,$15.00 
+122,shoppingcart.Product,20735420966,20735420966,Turkey Hill,Turkey Hill Premium Ice Cream Party Cake,$6.00 
+123,shoppingcart.Product,3.08E+11,3.08E+11,Tums,Tums Freshers Antacid Spearmint - 2 Pk,$13.00 
+124,shoppingcart.Product,72700104272,72700104272,Manischewitz,Manishchewitz Gluten Free Wide Egg Noodles,$26.00 
+125,shoppingcart.Product,47400302877,47400302877,Gillette Fusion,Gillette Fusion Proglide Cartridges - 8 Ct,$26.00 
+126,shoppingcart.Product,2.97E+11,2.97E+11,Bakery,Bakery Pistachio Muffin - 4 Ct,$25.00 
+127,shoppingcart.Product,41716842942,41716842942,Frigo,Frigo Cheese Heads 100% Natural String Cheese Light - 12 Ct,$10.00 
+128,shoppingcart.Product,70074586137,70074586137,Similac Advance,Similac Advance Infant Formula With Iron Milk-based/ready To Feed - 6 Ct,$12.00 
+129,shoppingcart.Product,15300430617,15300430617,Rice-a-roni,Rice A Roni Chicken Flavor Lower Sodium Rice,$14.00 
+130,shoppingcart.Product,6.16E+11,6.16E+11,Oberweis,Oberweis Dairy Raspberry Lemonade,$15.00 
+131,shoppingcart.Product,6.88E+11,6.88E+11,Companion,Companion Dog Biscuits Senior,$27.00 
+132,shoppingcart.Product,6.42E+11,6.42E+11,Coco,Coco Lite Multigrain Pop Cakes Whole Wheat,$4.00 
+133,shoppingcart.Product,50000301522,50000301522,Coffee-mate,Nestle The Original Coffee Mate,$8.00 
+134,shoppingcart.Product,7.16E+11,7.16E+11,Sweet Leaf,Sweetleaf Natural Stevia Sweetener Packets - 70 Ct,$21.00 
+135,shoppingcart.Product,93709300403,93709300403,Pamela's,Pamela's Chocolate Cake Mix,$14.00 
+136,shoppingcart.Product,98016322834,98016322834,Designer Greetings,Designer Gift Bag Glitterwrap,$21.00 
+137,shoppingcart.Product,6.88E+11,6.88E+11,Ahold,Ahold 5 Cheese Pizza Ready To Bake,$23.00 
+138,shoppingcart.Product,6.10E+11,6.10E+11,Deerfields Gluten Free,Rice Bran Gluten Free Mini Baguette,$21.00 
+139,shoppingcart.Product,28400162234,28400162234,Cracker Jack,Cracker Jack Popcorn Butter Toffee,$20.00 
+140,shoppingcart.Product,74711545679,74711545679,Swingline,Swingline Standard Desk Stapler Bonus Pack!,$23.00 
+141,shoppingcart.Product,2.08E+11,2.08E+11,Usda Meat,Pork Chops Bone-in Center Cut,$19.00 
+142,shoppingcart.Product,28881400000,28881400000,Usda Meat,Pork Chops Bone-in Center Cut,$15.00 
+143,shoppingcart.Product,27000419021,27000419021,Snack Pack,Snack Pack Tapioca Pudding - 4 Pk,$9.00 
+144,shoppingcart.Product,41520880710,41520880710,Pure Power,Pure Power Easy Grip Scrub Brush,$2.00 
+145,shoppingcart.Product,7.44E+11,7.44E+11,Cocktail,Cocktail Rx Frozen Cocktails Blue Hawaiian,$13.00 
+146,shoppingcart.Product,48419063957,48419063957,Anagram,"Anagram Foil Balloon 18"" Happy Birthday Smiles",$2.00 
+147,shoppingcart.Product,48481009952,48481009952,Shelton's,Shelton's Turkey Burgers - 3 Ct,$19.00 
+148,shoppingcart.Product,72890000309,72890000309,Buckler,Buckler Non-alcoholic Malt Beverage - 6 Ct,$4.00 
+149,shoppingcart.Product,70796300035,70796300035,Cento,Cento All Purpose Crushed Tomatoes,$23.00 
+150,shoppingcart.Product,41520874061,41520874061,Careone,Careone Vitamin B12 500mcg Tablets - 100 Ct,$12.00 
