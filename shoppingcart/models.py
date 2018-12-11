@@ -1,4 +1,5 @@
 from django.db import models
+from django.core import serializers
 
 # Create your models here.
 class Product(models.Model):
@@ -11,3 +12,6 @@ class Product(models.Model):
 
 	def __str__(self):
 		return self.name
+
+	def serialize(self):
+		return serializers.serialize('json', [ self, ])

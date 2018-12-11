@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" crossorigin="anonymous">
+
+    <style>
+    	html {
+    	  font-size: 14px;
+    	}
+    	@media (min-width: 768px) {
+    	  html {
+    	    font-size: 16px;
+    	  }
+    	}
+
+    	.container {
+    	  max-width: 960px;
+    	}
+
+    	.pricing-header {
+    	  max-width: 700px;
+    	}
+
+    	.card-deck .card {
+    	  min-width: 220px;
+    	}
+
+    	.border-top { border-top: 1px solid #e5e5e5; }
+    	.border-bottom { border-bottom: 1px solid #e5e5e5; }
+
+    	.box-shadow { box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05); }
+	</style>
+
+    <title>The Best Online Store</title>
+  </head>
+  <body>
+
+  	<div class="container d-flex flex-column align-items-center pb-5">
+	  	<div class="pricing-header px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center">
+		    <h1>Your Receipt</h1>
+	    </div>
+
+	    <div class="col-md-10 py-4 my-2">
+
+    	  <div class="card shadow-lg rounded">
+          <div class="card-body">
+            <ul class="list-unstyled">
+                <li class="py-2 h6 text-right"><strong class="mr-1">Amount paid: </strong> ${{ cart_total }}</li>
+                <li><h5><strong>{{ buyer.name }}</strong></h5></li>
+                <li>{{ buyer.address }}</li>
+                <li>{{ buyer.city }}, {{ buyer.state }} {{ buyer.zip }}</li>
+            </ul>
+
+            <h6 class="py-2">Items Ordered:</h6>
+
+            {% for item in cart_contents %}
+              <ul class="list-unstyled">
+
+                <li><strong class="mr-1">Product name:</strong> {{ item.name }}</li>
+                <li><strong class="mr-1">Brand name:</strong> {{ item.brand }}</li>
+                <li><strong class="mr-1">UPC:</strong> {{ item.upc14 }}</li>
+                <li><strong class="mr-1">Price:</strong> ${{ item.price }}</li>
+              </ul>
+
+            {% endfor %}
+          </div>
+        </div>
+
+	    </div>
+
+    </div>
+    
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+  </body>
+</html>

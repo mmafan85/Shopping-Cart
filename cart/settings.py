@@ -114,6 +114,15 @@ USE_L10N = True
 
 USE_TZ = True
 
+TIME= 240*60
+
+SESSION_SERIALIZER = 'django.contrib.sessions.serializers.PickleSerializer'
+
+SESSION_EXPIRE_AT_BROWSER_CLOSE= True
+
+SESSION_COOKIE_AGE = TIME
+
+SESSION_IDLE_TIMEOUT = TIME
 
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/2.1/howto/static-files/

@@ -1,0 +1,127 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" crossorigin="anonymous">
+
+    <style>
+    	html {
+    	  font-size: 14px;
+    	}
+    	@media (min-width: 768px) {
+    	  html {
+    	    font-size: 16px;
+    	  }
+    	}
+
+    	.container {
+    	  max-width: 960px;
+    	}
+
+    	.pricing-header {
+    	  max-width: 700px;
+    	}
+
+    	.card-deck .card {
+    	  min-width: 220px;
+    	}
+
+    	.border-top { border-top: 1px solid #e5e5e5; }
+    	.border-bottom { border-bottom: 1px solid #e5e5e5; }
+
+    	.box-shadow { box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05); }
+	</style>
+
+    <title>The Best Online Store</title>
+  </head>
+  <body>
+
+  	<div class="container d-flex flex-column align-items-center pb-5">
+	  	<div class="pricing-header px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center">
+		    <h1>Your Cart</h1>
+	    </div>
+
+	    <div class="col-8 py-4 my-2">
+
+    		{% for item in cart_contents %}
+
+	    	  <div class="card my-2 shadow">
+            <div class="card-body">
+              <ul class="list-unstyled">
+                  <li class="py-1"><h5><strong>{{ item.name }}</strong></h5></li>
+                  <li><strong class="mr-1">Brand name:</strong> {{ item.brand }}</li>
+                  <li><strong class="mr-1">UPC:</strong> {{ item.upc14 }}</li>
+                  <li><strong class="mr-1">Price:</strong> ${{ item.price }}</li>
+              </ul>
+            </div>
+          </div>
+
+    	  	{% endfor %}
+
+	    </div>
+
+      <div class="col-md-10 py-4 my-2 card shadow-lg rounded">
+        <div class="card-body">
+
+          <form method="POST" action="/receipt/">
+            {% csrf_token %}
+            <div class="form-row">
+              <div class="form-group col-md-6">
+                <label for="inputEmail4">Name</label>
+                <input type="text" name="name" class="form-control" id="inputEmail4" placeholder="Name" value="Michael Jordan" required>
+              </div>
+            </div>
+            <div class="form-group">
+              <label for="inputAddress">Address</label>
+              <input type="text" name="address" class="form-control" id="inputAddress" placeholder="1234 Main St" value="1901 W Madison St" required>
+            </div>
+            <div class="form-row">
+              <div class="form-group col-md-6">
+                <label for="inputCity">City</label>
+                <input type="text" name="city" class="form-control" id="inputCity" value="Chicago" required>
+              </div>
+              <div class="form-group col-md-6">
+                <label for="inputState">State</label>
+                <input type="text" name="state" class="form-control" id="inputState" value="IL" required>
+              </div>
+              <div class="form-group col-md-2">
+                <label for="inputZip">Zip</label>
+                <input name="zip" type="text" class="form-control" id="inputZip" value="60612" required>
+              </div>
+            </div>
+
+            <div class="form-row mt-2">
+              <div class="form-group col-md-6">
+                <label for="inputCard">Card #</label>
+                <input type="text" name="card_number" class="form-control" id="inputCard" value="378282246310005" required>
+              </div>
+              <div class="form-group col-md-6">
+                <label for="inputCvv">CVV Number</label>
+                <input type="text" name="cvv" class="form-control" id="inputCvv" value="1000" required>
+              </div>
+              <div class="form-group col-md-2">
+                <label for="inputExp">Expiration</label>
+                <input name="exp" type="text" class="form-control" id="inputExp" value="10/24" required>
+              </div>
+            </div>
+
+            <div class="text-right">
+              <button type="submit" class="btn btn-success">Complete Purchase</button>
+            </div>
+          </form>
+
+        </div>
+      </div>
+
+    </div>
+    
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+  </body>
+</html>
